@@ -135,6 +135,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -149,11 +152,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="855" />
     <option name="height" value="657" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -164,19 +168,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="Killercommute" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Killercommute" type="462c0819:PsiDirectoryNode" />
+              <item name="CYOA_Pursuit_HW_Guzman_Fribel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CYOA_Pursuit_HW_Guzman_Fribel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Killercommute" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Killercommute" type="462c0819:PsiDirectoryNode" />
+              <item name="CYOA_Pursuit_HW_Guzman_Fribel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CYOA_Pursuit_HW_Guzman_Fribel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Killercommute" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Killercommute" type="462c0819:PsiDirectoryNode" />
+              <item name="CYOA_Pursuit_HW_Guzman_Fribel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CYOA_Pursuit_HW_Guzman_Fribel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Pursuit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CYOA_Pursuit_HW_Guzman_Fribel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -244,9 +252,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="855" height="657" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11444921" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19680198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -255,7 +263,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="1.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9471891" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.47275203" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
